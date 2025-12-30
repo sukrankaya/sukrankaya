@@ -6,78 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Professional Portfolio | Şükran Kaya</title>
   <style>
-    * { box-sizing: border-box; }
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', Tahoma, sans-serif;
-      background-color: #0d1117;
-      color: #c9d1d9;
-      line-height: 1.6;
-    }
-    header {
-      background: linear-gradient(135deg, #1f6feb, #0d1117);
-      padding: 60px 20px;
-      text-align: center;
-    }
-    header h1 {
-      font-size: 42px;
-      margin-bottom: 10px;
-    }
-    header p {
-      font-size: 18px;
-      opacity: 0.9;
-    }
-    section {
-      max-width: 1000px;
-      margin: 40px auto;
-      padding: 30px;
-      background: #161b22;
-      border-radius: 14px;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.3);
-    }
-    h2 {
-      color: #58a6ff;
-      border-bottom: 1px solid #30363d;
-      padding-bottom: 10px;
-      margin-bottom: 20px;
-    }
-    .skills {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 12px;
-    }
-    .skills span {
-      padding: 8px 16px;
-      background: #21262d;
-      border-radius: 30px;
-      font-size: 14px;
-    }
-    .projects {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 20px;
-    }
-    .project {
-      background: #0d1117;
-      padding: 20px;
-      border-radius: 12px;
-      border: 1px solid #30363d;
-    }
-    .project h3 {
-      margin-top: 0;
-      color: #58a6ff;
-    }
-    a {
-      color: #58a6ff;
-      text-decoration: none;
-    }
-    footer {
-      text-align: center;
-      padding: 30px;
-      color: #8b949e;
-      font-size: 14px;
-    }
-  </style>
+   
 </head>
 <body>
 
